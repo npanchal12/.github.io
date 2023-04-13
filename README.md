@@ -2,7 +2,7 @@
 
 # My GitHub Status
 
-[![Nimesh's github stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Nimesh's github stats](https://github-readme-stats.vercel.app/api?username=npanchal12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi there! This is my GitHub Status page where I will provide updates on my recent activities and projects.
 
